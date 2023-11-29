@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280409500377",
+    "project_id": "face-recognition-a3cde",
+    "storage_bucket": "face-recognition-a3cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280409500377:android:8b55ec6d0af68e8ef52cc8",
+        "android_client_info": {
+          "package_name": "com.example.face_recognization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90Hear69mJblCfzlBgAwjkESxzXW6Bsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
